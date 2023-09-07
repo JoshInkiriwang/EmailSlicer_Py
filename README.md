@@ -58,4 +58,3 @@ Domain: gmail.com
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to use, modify, and share this code as needed for your projects.
-```

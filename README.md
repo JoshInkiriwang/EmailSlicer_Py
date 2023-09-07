@@ -1,7 +1,6 @@
 # EmailSlicer_Py
  A concise Python code snippet that splits an email address into its username and domain, providing a clear separation of the two components.
 
-```markdown
 # Email Splicer Code in Python
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
@@ -33,7 +32,7 @@ This Python program is designed to split an email address into its username and 
 
    ```bash
    git clone https://github.com/yourusername/email-splicer-python.git
-   ```
+
 
 2. Run the Python script:
 
